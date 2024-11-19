@@ -4,6 +4,7 @@ void main() {
   runApp(const MyApp());
 }
 // added a comment just
+// added a comment in another pc
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
